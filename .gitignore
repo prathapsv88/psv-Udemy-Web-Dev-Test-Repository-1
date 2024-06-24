@@ -1,0 +1,7 @@
+# all psv custom files - sensitive files - should not be published to github remote repository.
+allLicenseKeys.txt
+paidApiKeys.txt
+
+# psv - secrets notes - company property.
+secrets.txt
+confidentialInfo.txt
